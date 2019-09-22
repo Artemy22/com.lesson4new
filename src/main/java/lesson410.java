@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class lesson410 {
     public static void main(String[] args) {
 
